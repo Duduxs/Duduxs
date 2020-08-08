@@ -11,9 +11,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=BLACK&link=https://www.linkedin.com/in/eduarddojose/)](https://www.linkedin.com/in/eduarddojose/)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=BLACK&link=https://whats.link/eduardojose)](https://whats.link/eduardojose)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=BLACK&link=mailto:duduxss3@gmail.com)](mailto:duduxss3@gmail.com)
-[![Sourcerer Badge](https://img.shields.io/badge/-Sourcerer.io-6633cc?style=flat-square&logo=Sourcerer&logoColor=white&color=BLACK&link=https://sourcerer.io/duduxs)](https://sourcerer.io/duduxs)
-[![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Rocket&logoColor=white&color=BLACK&link=https://app.rocketseat.com.br/me/eduardo-jose-1594223134)](https://app.rocketseat.com.br/me/eduardo-jose-1594223134)
-<hr>
+[![Sourcerer Badge](https://img.shields.io/badge/-Sourcerer.io-6633cc?style=flat-square&logo=appveyor&logoColor=white&color=BLACK&link=https://sourcerer.io/duduxs)](https://sourcerer.io/duduxs)
+[![RocketSeat Badge](https://img.shields.io/badge/-Sourcerer.io-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=BLACK&link=https://app.rocketseat.com.br/me/eduardo-jose-1594223134)](https://sourcerer.io/duduxs)
+
 
 - 🚀 I’m currently learning: JavaScript, CSS3 and HTML5
 - 💬 Ask me about: Tech, GameDev and Music
