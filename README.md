@@ -1,5 +1,6 @@
 
-<img src="./octocat.png"  width="300" >
+<p align='center'><img width='300' src="https://github.com/Duduxs/Duduxs/blob/master/octocat.png"/></p>
+
 <p align="center">
   <h2 align="center">  Hi there, welcome to my profile! 👋</h2>
   <h2 align="center">  I'm Eduardo José, Java Enthusiast 👨🏻‍💻</h2> 
