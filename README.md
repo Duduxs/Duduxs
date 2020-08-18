@@ -3,10 +3,9 @@
 
 <p align="center">
   <h2 align="center">  Oi, Bem-vindo ao meu perfil! 👋</h2>
-  <h2 align="center">  Eu sou Eduardo José, Desenvolvedor Back-End 👨🏻‍💻</h2> 
 </p>
 
-# Eduardo José <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Eu sou Eduardo José, Desenvolvedor Back-End <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=BLACK&link=https://www.linkedin.com/in/eduarddojose/)](https://www.linkedin.com/in/eduarddojose/)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=BLACK&link=https://whats.link/eduardojose)](https://whats.link/eduardojose)
