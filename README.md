@@ -2,8 +2,8 @@
 <p align='center'><img width='300' src="https://github.com/Duduxs/Duduxs/blob/master/octocat.png"/></p>
 
 <p align="center">
-  <h2 align="center">  Hi there, welcome to my profile! 👋</h2>
-  <h2 align="center">  I'm Eduardo José, Java Enthusiast 👨🏻‍💻</h2> 
+  <h2 align="center">  Oi, Bem-vindo ao meu perfil! 👋</h2>
+  <h2 align="center">  Eu sou Eduardo José, Desenvolvedor Back-End 👨🏻‍💻</h2> 
 </p>
 
 # Eduardo José <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
@@ -16,9 +16,6 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Elixir&logoColor=white&color=BLACK&link=https://medium.com/@duduxss3)](https://medium.com/@duduxss3)
 [![duduxss3.github.io Badge](https://img.shields.io/badge/-duduxs.github.io-6633cc?style=flat-square&logo=DTube&logoColor=white&color=BLACK&link=https://duduxs.github.io/portfolio/)](https://duduxs.github.io/portfolio/)
 
-
-- 🚀 I’m currently learning: JavaScript, CSS3 and HTML5
-- 💬 Ask me about: Tech, GameDev and Music
-- 📣 We can talk in: English or Portuguese
+ 📣💬 Atualmente estudo Java, Spring Boot (E todo o ecossistema), APIs REST, JPA, Hibernate, noSQL/SQL, JSF, VRaptor dentre outras tecnologias que acompanham a linguagem Java. ☕
 
 <img align="left" alt="franklaercio" src="https://github-readme-stats.codestackr.vercel.app/api?username=duduxs&show_icons=true&hide_border=true" />
