@@ -13,6 +13,7 @@
 [![Sourcerer Badge](https://img.shields.io/badge/-Sourcerer.io-6633cc?style=flat-square&logo=appveyor&logoColor=white&color=BLACK&link=https://sourcerer.io/duduxs)](https://sourcerer.io/duduxs)
 [![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=BLACK&link=https://app.rocketseat.com.br/me/eduardo-jose-1594223134)](https://app.rocketseat.com.br/me/eduardo-jose-1594223134)
 [![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Elixir&logoColor=white&color=BLACK&link=https://medium.com/@duduxss3)](https://medium.com/@duduxss3)
+[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-6633cc?style=flat-square&logo=HackerRank&logoColor=white&color=BLACK&link=https://www.hackerrank.com/Edudev142)](https://www.hackerrank.com/Edudev142)
 [![duduxss3.github.io Badge](https://img.shields.io/badge/-duduxs.github.io-6633cc?style=flat-square&logo=DTube&logoColor=white&color=BLACK&link=https://duduxs.github.io/portfolio/)](https://duduxs.github.io/portfolio/)
 
  📣💬 Atualmente estudo Java, Spring Boot (E todo o ecossistema), APIs REST, JPA, Hibernate, noSQL/SQL, JSF, VRaptor dentre outras tecnologias que acompanham a linguagem Java. ☕
