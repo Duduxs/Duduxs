@@ -1,5 +1,5 @@
 
-<p align='center'><img width='300' src="https://github.com/Duduxs/Duduxs/blob/master/octocat.png"/></p>
+<p align='center'><img width='300' alt="octocat" src="https://github.com/Duduxs/Duduxs/blob/master/octocat.png"/></p>
 
 <p align="center">
   <h2 align="center">  Oi, Bem-vindo ao meu perfil! 👋</h2>
