@@ -9,6 +9,18 @@
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-6633cc?style=flat-square&logo=HackerRank&logoColor=white&color=black&link=https://www.hackerrank.com/Edudev142)](https://www.hackerrank.com/Edudev142)
 [![duduxss3.github.io Badge](https://img.shields.io/badge/-duduxs.github.io-6633cc?style=flat-square&logo=DTube&logoColor=white&color=black&link=https://duduxs.github.io/portfolio/)](https://duduxs.github.io/portfolio/)
 
+```javascript
+  async user.index({
+    name: 'Eduardo José',
+    age: 19,
+    city: 'Olinda, PE',
+    stack: ['Java', 'Spring', 'React/Native', 'JPA/Hibernate', '(My|Postgre)SQL'],
+    hobby: 'I love game dev, animes and horror'
+  });
+  
+  return response.status(201).send();
+```
+
  📣💬 Atualmente estudo Java, Spring Boot (E todo o ecossistema), APIs REST, JPA, Hibernate, noSQL/SQL, JSP dentre outras tecnologias que acompanham a linguagem Java. ☕
 
-<img align="left" alt="franklaercio" src="https://github-readme-stats.codestackr.vercel.app/api?username=duduxs&show_icons=true&hide_border=true" />
+<img align="left" alt="Duduxs" src="https://github-readme-stats.codestackr.vercel.app/api?username=duduxs&show_icons=true&hide_border=true&theme=dark" />
