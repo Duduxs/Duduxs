@@ -20,7 +20,5 @@
   
   return response.status(201).send();
 ```
-
- 📣💬 Atualmente estudo Java, Spring Boot (E todo o ecossistema), APIs REST, JPA, Hibernate, noSQL/SQL, JSP dentre outras tecnologias que acompanham a linguagem Java. ☕
-
+<hr>
 <img align="left" alt="Duduxs" src="https://github-readme-stats.codestackr.vercel.app/api?username=duduxs&show_icons=true&hide_border=true&theme=dark" />
