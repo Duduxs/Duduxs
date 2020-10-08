@@ -21,4 +21,6 @@
   return response.status(201).send();
 ```
 <hr>
-<img align="left" alt="Duduxs" src="https://github-readme-stats.codestackr.vercel.app/api?username=duduxs&show_icons=true&hide_border=true&theme=dark" />
+<h1 align="center">
+<img alt="Duduxs" src="https://github-readme-stats.codestackr.vercel.app/api?username=duduxs&show_icons=true&hide_border=true&theme=dark" />
+</h1>
