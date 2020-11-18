@@ -12,7 +12,7 @@
 ```javascript
   async user.index({
     name: 'Eduardo José',
-    age: 19,
+    age: 20,
     city: 'Olinda, PE',
     stack: ['Java', 'Spring', 'React/Native', 'JPA/Hibernate', '(My|Postgre)SQL'],
     hobby: 'I love game dev, animes and horror'
