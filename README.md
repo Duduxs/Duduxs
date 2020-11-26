@@ -10,7 +10,7 @@
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-6633cc?style=flat-square&logo=HackerRank&color=14274e&link=https://www.hackerrank.com/Edudev142)](https://www.hackerrank.com/Edudev142)
 [![duduxss3.github.io Badge](https://img.shields.io/badge/-duduxs.github.io-6633cc?style=flat-square&logo=DTube&color=14274e&link=https://duduxs.github.io/portfolio/)](https://duduxs.github.io/portfolio/)
 
-<img src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="300" align="right">
+<hr>
 
 ```javascript
   async user.index({
