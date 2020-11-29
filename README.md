@@ -8,6 +8,7 @@
 [![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&color=14274e&link=https://app.rocketseat.com.br/me/eduardo-jose-1594223134)](https://app.rocketseat.com.br/me/eduardo-jose-1594223134)
 [![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Elixir&color=14274e&link=https://medium.com/@duduxss3)](https://medium.com/@duduxss3)
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-6633cc?style=flat-square&logo=HackerRank&color=14274e&link=https://www.hackerrank.com/Edudev142)](https://www.hackerrank.com/Edudev142)
+[![CodeWars Badge](https://img.shields.io/badge/-CodeWars-6633cc?style=flat-square&logo=Codewars&color=14274e&link=https://www.codewars.com/users/Duduxs)](https://www.codewars.com/users/Duduxs)
 [![duduxss3.github.io Badge](https://img.shields.io/badge/-duduxs.github.io-6633cc?style=flat-square&logo=DTube&color=14274e&link=https://duduxs.github.io/portfolio/)](https://duduxs.github.io/portfolio/)
 
 <hr>
