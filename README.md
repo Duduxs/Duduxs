@@ -1,7 +1,4 @@
 ## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Eduardo José
-<div justify-content: "right">
-  oi
-</div>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duduxs&show_icons=true&bg_color=FFF&text_color=000&title_color=14274e&icon_color=394867)
 
