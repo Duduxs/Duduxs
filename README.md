@@ -1,4 +1,8 @@
 ## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Eduardo José
+<div justify-content: "right">
+  oi
+</div>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duduxs&show_icons=true&bg_color=FFF&text_color=000&title_color=14274e&icon_color=394867)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/eduarddojose/)](https://www.linkedin.com/in/eduarddojose/)
@@ -14,12 +18,13 @@
 <hr>
 
 ```javascript
-  async user.index({
-    name: 'Eduardo José',
-    age: 20,
-    city: 'Olinda, PE',
-    stack: ['Java', 'Spring', 'React/Native', 'JPA/Hibernate', '(My|Postgre)SQL'],
-    hobby: 'I love game dev, animes and horror'
+  async repositories.index({
+    description: ['When you search', 'my repositories use', 'any of these values above'],
+    project: Repositories for projects in general,
+    study: Repositories created for studies,
+    college: Repositores from my college,
+    api: Repositories that have apis rest,
+    own: Repositories that contains my and only my work
   });
   
   return response.status(201).send();
