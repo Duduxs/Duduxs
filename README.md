@@ -1,6 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Eduardo José
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duduxs&show_icons=true&bg_color=FFF&text_color=000&title_color=14274e&icon_color=394867)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duduxs&show_icons=true&bg_color=14274e&text_color=FFF&title_color=FFFF&icon_color=FFF)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/eduarddojose/)](https://www.linkedin.com/in/eduarddojose/)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&color=14274e&link=https://whats.link/eduardojose)](https://whats.link/eduardojose)
