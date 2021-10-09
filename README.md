@@ -20,11 +20,11 @@
 ```javascript
   async repositories.index({
     description: ['When you search', 'my repositories use', 'any of these values above'],
-    project: Repositories for projects in general,
+    project: Repositories for personal projects,
     study: Repositories created for studies,
     college: Repositores from my college,
     api: Repositories that have apis rest,
-    own: Repositories that contains my and only my work
+    own: Repositories that contains my work, non-event repositories.
   });
   
   return response.status(201).send();
