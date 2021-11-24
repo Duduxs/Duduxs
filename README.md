@@ -26,10 +26,9 @@
   async repositories.index({
     description: ['When you search', 'my repositories use', 'any of these values above'],
     project: Repositories for personal projects,
-    study: Repositories created for studies,
-    college: Repositores from my college,
+    study: Repositories created for studies, saving separate practice projects,
     api: Repositories that have apis rest,
-    own: Repositories that contains my work, non-event repositories.
+    external: Repositories that aren't projects but save exercises and docs from study stuff, 
   });
   
   return response.status(201).send();
