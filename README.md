@@ -4,7 +4,7 @@
 
 <hr>
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duduxs&show_icons=true&bg_color=050C21&text_color=FFF&title_color=FFFF&icon_color=FFF)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duduxs&PAT_1=show_icons=true&bg_color=050C21&text_color=FFF&title_color=FFFF&icon_color=FFF&PAT_1)
 
 <div align="center">
 
