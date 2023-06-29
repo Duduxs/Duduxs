@@ -26,7 +26,8 @@
   async repositories.index({
     description: ['When you search', 'my repositories use', 'any of these values above'],
     project: Repositories for personal projects,
-    study: Repositories created for studies, saving exercises or projects. 
+    study: Repositories created for studies, saving exercises or projects,
+    other: Repositories that aren't from project or study 
   });
   
   return response.status(201).send();
