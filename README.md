@@ -3,8 +3,8 @@
 ![Hello](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 <hr>
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duduxs&PAT_1=show_icons=true&bg_color=050C21&text_color=FFF&title_color=FFFF&icon_color=FFF&PAT_1)
+
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Duduxs&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent&border_radius=8)
 
 <div align="center">
 
